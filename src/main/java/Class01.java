@@ -12,6 +12,11 @@ public class Class01 {
 
 
 
+        int  z =5;
+        System.out.println(x+y+z);
+
+
+
 
 
 
