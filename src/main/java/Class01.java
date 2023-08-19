@@ -15,6 +15,8 @@ public class Class01 {
         int  z =5;
         System.out.println(x+y+z);
 
+        System.out.println("Versiyon 3 için kodlar");
+
 
 
 
